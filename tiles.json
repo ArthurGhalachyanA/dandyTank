@@ -1,0 +1,150 @@
+[
+  {
+    "type": 1,
+    "tiles": [
+      {
+        "name": "pawn_1",
+        "pos": [0, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [1, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [2, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [3, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [4, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [5, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [6, 1],
+        "first": true
+      },
+      {
+        "name": "pawn_1",
+        "pos": [7, 1],
+        "first": true
+      },
+      {
+        "name": "rook_1",
+        "pos": [0, 0]
+      },
+      {
+        "name": "rook_1",
+        "pos": [7, 0]
+      },
+      {
+        "name": "knight_1",
+        "pos": [1, 0]
+      },
+      {
+        "name": "knight_1",
+        "pos": [6, 0]
+      },
+      {
+        "name": "bishop_1",
+        "pos": [5, 0]
+      },
+      {
+        "name": "bishop_1",
+        "pos": [2, 0]
+      },
+      {
+        "name": "queen_1",
+        "pos": [4, 0]
+      },
+      {
+        "name": "king_1",
+        "pos": [3, 0]
+      }
+
+    ]
+  },
+  {
+    "type": 1,
+    "tiles": [
+      {
+        "name": "pawn_2",
+        "pos": [0, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [1, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [2, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [3, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [4, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [5, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [6, 6]
+      },
+      {
+        "name": "pawn_2",
+        "pos": [7, 6]
+      },
+      {
+        "name": "rook_2",
+        "pos": [0, 7]
+      },
+      {
+        "name": "rook_2",
+        "pos": [7, 7]
+      },
+      {
+        "name": "knight_2",
+        "pos": [1, 7]
+      },
+      {
+        "name": "knight_2",
+        "pos": [6, 7]
+      },
+      {
+        "name": "bishop_2",
+        "pos": [5, 7]
+      },
+      {
+        "name": "bishop_2",
+        "pos": [2, 7]
+      },
+      {
+        "name": "queen_2",
+        "pos": [4, 7]
+      },
+      {
+        "name": "king_2",
+        "pos": [3, 7]
+      }
+
+    ]
+  }
+]
